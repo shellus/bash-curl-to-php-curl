@@ -5,4 +5,4 @@
 ## all todo
 
 ## 预览图
-!()[https://raw.githubusercontent.com/shellus/bash-curl-to-php-curl/master/preview.jpg]
+![](https://raw..com/shellus/bash-curl-to-php-curl/master/preview.jpg]githubusercontent)
